@@ -123,6 +123,9 @@
     <ClInclude Include="chap5_tree.h" />
     <ClInclude Include="chap6_graph.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="data_structure_learning.rc" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
