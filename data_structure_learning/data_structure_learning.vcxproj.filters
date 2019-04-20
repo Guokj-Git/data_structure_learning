@@ -26,5 +26,11 @@
     <ClInclude Include="chap5_tree.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="chap3_list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap4_stack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
